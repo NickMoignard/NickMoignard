@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**NickMoignard/NickMoignard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Rails Social Media App with MongoDB](https://www.github.com/nickmoignard/chat)
+- 🌱 I’m currently learning [ActionCable for Real Time Features in Rails Apps](https://guides.rubyonrails.org/action_cable_overview.html)
+- 📫 How to reach me: nicklmoignard@gmail.com
+- 😄 Pronouns:  He/Him
+- ⚡ Fun fact: I love birdwatching! My favourite native bird is the King Parrot
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+<!-- Tech Tree??? -->
+
+### Socials
+
+### 
