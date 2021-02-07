@@ -20,4 +20,4 @@
 - 😄 Pronouns:  He/Him
 - ⚡ Fun fact: I love birdwatching! My favourite native bird is the King Parrot
 
-<img src="https://en.wikipedia.org/wiki/Australian_king_parrot#/media/File:Alisterus_scapularis_-_Brunkerville.jpg" alt='' width="300" height="300" align='right'></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Alisterus_scapularis_-_Brunkerville.jpg" alt='' ></img>
