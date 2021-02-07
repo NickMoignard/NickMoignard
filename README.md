@@ -1,8 +1,6 @@
 
-<div style="width:40vw;height:40vw;float:right;margin:20px">
-<img src="https://github.com/NickMoignard/NickMoignard/blob/main/animated-working-header.svg" alt=''></img>
 
-</div>
+<img src="https://github.com/NickMoignard/NickMoignard/blob/main/animated-working-header.svg" alt=''></img>
 
 <!-- ![Animated Developer Illustration](https://github.com/NickMoignard/NickMoignard/blob/main/animated-working-header.svg) -->
 
