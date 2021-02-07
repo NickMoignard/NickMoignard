@@ -1,8 +1,8 @@
 
 
 <img src="https://github.com/NickMoignard/NickMoignard/blob/main/animated-working-header.svg?raw=true" alt='' width="350" height="350" align='right'></img>
-# Hey I'm Nick
-I am a Web Developer from Melbourne, Australia
+# Thanks for Coming by!
+My name's Nick. I'm a Web Developer working from Melbourne, Australia 😁
 📫 nicklmoignard@gmail.com
 - 🔭 I’m currently working on [Rails Social Media App with MongoDB](https://www.github.com/nickmoignard/chat) 
 - 🌱 I’m currently learning [ActionCable for Real Time Features in Rails Apps](https://guides.rubyonrails.org/action_cable_overview.html)
