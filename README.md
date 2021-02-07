@@ -1,4 +1,4 @@
-![Nick Moignard Animated Illustration](https://github.com/NickMoignard/NickMoignard/blob/main/animated-working-header.svg)
+![Nick Moignard Animated Illustration](https://github.com/NickMoignard/NickMoignard/blob/main/animated-working-header.svg?raw=true)
 
 - 🔭 I’m currently working on [Rails Social Media App with MongoDB](https://www.github.com/nickmoignard/chat)
 - 🌱 I’m currently learning [ActionCable for Real Time Features in Rails Apps](https://guides.rubyonrails.org/action_cable_overview.html)
