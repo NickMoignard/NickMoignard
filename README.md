@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/NickMoignard/NickMoignard/blob/main/animated-working-header.svg" alt=''></img>
+<img src="https://github.com/NickMoignard/NickMoignard/blob/main/animated-working-header.svg?raw=true" alt=''></img>
 
 <!-- ![Animated Developer Illustration](https://github.com/NickMoignard/NickMoignard/blob/main/animated-working-header.svg) -->
 
