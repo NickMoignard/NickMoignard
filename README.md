@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/NickMoignard/NickMoignard/blob/main/animated-working-header.svg?raw=true" alt='' width="300" height="300" align='right'></img>
+<img src="https://github.com/NickMoignard/NickMoignard/blob/main/animated-working-header.svg?raw=true" alt='' width="450" height="450" align='right'></img>
 # Hey I'm Nick
 I am a Web Developer from Melbourne, Australia
 📫 nicklmoignard@gmail.com
