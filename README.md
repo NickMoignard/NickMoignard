@@ -1,9 +1,11 @@
 
 
 <img src="https://github.com/NickMoignard/NickMoignard/blob/main/animated-working-header.svg?raw=true" alt='' width="350" height="350" align='right'></img>
-# Thanks for Coming by!
-My name's Nick. I'm a Web Developer working from Melbourne, Australia 😁
+# 👋 G'day
+### I'm Nick. A Web Developer from Melbourne, Australia 
+
 📫 nicklmoignard@gmail.com
+
 - 🔭 I’m currently working on [Rails Social Media App with MongoDB](https://www.github.com/nickmoignard/chat) 
 - 🌱 I’m currently learning [ActionCable for Real Time Features in Rails Apps](https://guides.rubyonrails.org/action_cable_overview.html)
 - ⚡ Fun fact: I love birdwatching! My favourite bird is the [Australian King Parrot](https://en.wikipedia.org/wiki/Australian_king_parrot)
@@ -11,13 +13,14 @@ My name's Nick. I'm a Web Developer working from Melbourne, Australia 😁
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Alisterus_scapularis_-_Brunkerville.jpg" alt='' width='200'></img>
 
 ## Projects I've Worked On
-- [Welyn ~ Shopify Theme](https://welyn.shop/)
-- [Schlatt ~ Shopify Theme](https://schlatt2020.com/)
-- [SwaggerSouls ~ Shopify Theme](https://swagger.shop/)
-- [Scuffed ~ Shopify Theme](https://scuffed.store/)
+
 - [Corpse Husband ~ Shopify Theme](https://corpse.store/)
 - [McCreamy ~ Shopify Theme](https://mccreamy.shop/)
 - [Cool Shirtz ~ Shopify Theme](https://shirtz.cool)
+- [Schlatt ~ Shopify Theme](https://schlatt2020.com/)
+- [Welyn ~ Shopify Theme](https://welyn.shop/)
+- [SwaggerSouls ~ Shopify Theme](https://swagger.shop/)
+- [Scuffed ~ Shopify Theme](https://scuffed.store/)
 - [Scuffed.io ~ Static React](https://scfd.io/)
 
 ## Tools
