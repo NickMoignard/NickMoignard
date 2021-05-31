@@ -5,9 +5,8 @@
 ### I'm Nick. A Web Developer from Melbourne, Australia 
 
 📫 nicklmoignard@gmail.com
-
-- 🔭 I’m currently working on [Rails Social Media App with MongoDB](https://www.github.com/nickmoignard/chat) 
-- 🌱 I’m currently learning [ActionCable for Real Time Features in Rails Apps](https://guides.rubyonrails.org/action_cable_overview.html)
+- 💻 I am an experienced React & Ruby Developer
+- 🌱 I’m currently studying [Next.js & GraphQL]()
 - ⚡ Fun fact: I love birdwatching! My favourite bird is the [Australian King Parrot](https://en.wikipedia.org/wiki/Australian_king_parrot)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Alisterus_scapularis_-_Brunkerville.jpg" alt='' width='200'></img>
