@@ -4,7 +4,7 @@
 # 👋 G'day, Thanks for viewing my profile
 
 <!-- markdownlint-disable-next-line  -->
-### I'm Nick. A Developer from Melbourne, Australia
+### I'm Nick a web developer from Melbourne, Australia
 
 📫 nicklmoignard@gmail.com
 
