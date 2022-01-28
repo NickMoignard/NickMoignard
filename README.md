@@ -11,7 +11,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Alisterus_scapularis_-_Brunkerville.jpg" alt='' width='200'></img>
 
-## Some Sites I've worked on in the past
+## Some sites I've worked on in the past
 - [The Sheet Society](https://sheetsociety.com/en-au/product/linen-bedding-white)
 - [Musashi](https://musashi.com/)
 - [Rationale](https://www.rationale.com/)
