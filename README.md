@@ -12,6 +12,8 @@
 - 🌱 Strange work related fact: I actual enjoy unit testing
 - ⚡ Fun fact: My favorite bird is the [Australian King Parrot](https://en.wikipedia.org/wiki/Australian_king_parrot)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Alisterus_scapularis_-_Brunkerville.jpg" alt='' width='200' />
+
 I don't have a degree but am a passionate developer interested in all things engineered. Be it physical or digital, I'll be there to geek out with you.
 My career and approach to software development has been heavily influenced by the following. I highly recommend checking them out!:
 
@@ -20,8 +22,6 @@ My career and approach to software development has been heavily influenced by th
 - [Steve Huynh](https://www.youtube.com/@ALifeEngineered)
 - [Robert C 'Uncle Bob' Martin](https://www.youtube.com/watch?v=7EmboKQH8lM)
 - [Jack Herrington](https://www.youtube.com/@jherr)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Alisterus_scapularis_-_Brunkerville.jpg" alt='' width='200' />
 
 # Tools that I love to work with
 
@@ -51,7 +51,7 @@ My career and approach to software development has been heavily influenced by th
 
 # Skills
 
-This is a list of tools I've worked in with the past with broken into three categories, listed in no particular order. I have worked with many more but these
+This is a list of tools I've worked in with the past, broken into three categories, listed in no particular order. I have worked with many more but these are those that I have found neat icons for so far 😅
 
 ## Advanced
 
