@@ -15,7 +15,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Alisterus_scapularis_-_Brunkerville.jpg" alt='' width='200' />
 
 I don't have a degree but am a passionate developer interested in all things engineered. Be it physical or digital, I'll be there to geek out with you.
-My career and approach to software development has been heavily influenced by the following. I highly recommend checking them out!:
+My career and approach to software development have been heavily influenced by the following. I highly recommend checking them out!:
 
 - [The Pragmatic Programmer by David Thomas & Andrew Hunt](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 - [Dave Farley](https://www.youtube.com/@ContinuousDelivery)
